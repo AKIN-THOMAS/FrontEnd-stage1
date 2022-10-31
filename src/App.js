@@ -41,19 +41,23 @@ const App = () => {
                             <a href="https://twitter.com/Bishopakint/" id="twitter" className="button" target= 'blank'>Twitter</a>
                         </div>
                         <div className="a-button">
-                            <a href="https://training.zuri.team/" id="btn__zuri" className="button" target= 'blank'>Zuri Team</a>
+                            <a href="https://training.zuri.team/" id="btn__zuri" className="button" target= 'blank'>Zuri Team <sub>This is where you find books about design and coding</sub></a>
+                            
                         </div>
                         <div className="a-button">
-                            <a href="https://books.zuri.team/" id="books" className="button" target= 'blank'>Zuri Books</a>
+                            <a href="https://books.zuri.team/" id="books" className="button" target= 'blank'>Zuri Books <sub>
+                            Greatest and best explained python books for beginners</sub></a>
+
                         </div>
                        <div className="a-button">
-                            <a href="https://books.zuri.team/" id="books__python" className="button" target= 'blank'>Python Books</a>
+                            <a href="https://books.zuri.team/" id="books__python" className="button" target= 'blank'>Python Books <sub>My company, is developing a defined software to help do a background check on coders</sub></a>
                        </div>
                        <div className="a-button">
-                            <a href="https://background.zuri.team/" id="pitch" className="button" target= 'blank'>Background Check for Coders </a>
+                            <a href="https://background.zuri.team/" id="pitch" className="button" target= 'blank'>Background Check for Coders <sub>Find out how other programmers solved their code issues  </sub></a>
                        </div>
                         <div className="a-button">
-                            <a href="https://books.zuri.team/design-rules" id="book__design" className="button" target= 'blank'>Design Books </a>
+                            <a href="https://books.zuri.team/design-rules" id="book__design" className="button" target= 'blank'>Design Books <sub>
+                            Top books for designers, easy to learn and understand. Offered by zuri</sub></a>
                         </div>
                 </div>
                

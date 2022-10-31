@@ -101,7 +101,20 @@
     color: #101828;
     padding-top: 20px;
 }
+sub{
+    font-size: 12px;
+    background-color: #EAECF0;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 200;
+    line-height: 12px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #101828;
+    text-decoration: none;
 
+}
 .button{
     box-sizing: border-box;
     margin: auto;
@@ -122,9 +135,9 @@
     background: #D0D5DD;
     border: 1px solid #D0D5DD;
 }
-
 .a-button{
     margin: 24px;
+    display: block;
 }
 
  .a-button a{
@@ -217,6 +230,9 @@ span{
         height: 68px;
         flex: 0 0 100%;
         width: 90%;
+    }
+    sub{
+        font-size: 10px;
     }
      .a-button a{
         font-family: 'Inter';
