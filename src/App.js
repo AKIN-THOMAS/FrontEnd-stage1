@@ -8,7 +8,7 @@ import slack from './photo/slack.png';
 import hover from './photo/profile_hover.svg';
 import icon_hover from './photo/icon_hover.svg';
 import mobile_share from './photo/mobile_share.svg';
-import './App';
+
 
 import './App.css'
 
